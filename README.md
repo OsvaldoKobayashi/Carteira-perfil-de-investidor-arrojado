@@ -6,5 +6,4 @@ Este projeto tem como objetivo analisar a performance de ativos financeiros indi
 
 Projeto desenvolvido em conjunto com a UNIFEI FINANCE, equipe da qual participei durante dois anos.
 
-
-        ![logo colorida](https://github.com/OsvaldoKobayashi/Carteira-perfil-de-investidor-arrojado/assets/144548342/bffb8f54-0da1-498e-a00c-e80fa910c9ac)
+![logo colorida](https://github.com/OsvaldoKobayashi/Carteira-perfil-de-investidor-arrojado/assets/144548342/bffb8f54-0da1-498e-a00c-e80fa910c9ac)
