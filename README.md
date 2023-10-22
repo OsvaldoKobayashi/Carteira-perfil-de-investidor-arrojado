@@ -1,4 +1,4 @@
-# Carteira-perfil-de-investidor-arrojado
+# Carteira perfil de investidor arrojado
 
 O projeto visa a criação de uma carteira de investimentos direcionada ao investidor de perfil arrojado, com uma maior porcentagem de ativos de renda variável na composição da carteira. Nesse caso, omitimos os ativos de renda fixa, os quais apresentam um tempo de análise que não pode ser exibido devido a um período de "vencimento" maior. 
 
